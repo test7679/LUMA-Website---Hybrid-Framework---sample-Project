@@ -21,7 +21,7 @@ public class HomePageTest extends Base {
 	RegisterPage registerPage;
 
 	public HomePageTest() throws IOException {
-		super();
+		super() miswebsite;
 	}
 
 	@BeforeMethod
